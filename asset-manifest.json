@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my_project_react_pages/static/css/main.21725310.css",
-    "main.js": "/my_project_react_pages/static/js/main.e283f091.js",
+    "main.css": "/my_project_react_pages/static/css/main.97122ff3.css",
+    "main.js": "/my_project_react_pages/static/js/main.5f10abf7.js",
     "static/js/787.93c0ff9f.chunk.js": "/my_project_react_pages/static/js/787.93c0ff9f.chunk.js",
     "static/media/NIRVANA.TTF": "/my_project_react_pages/static/media/NIRVANA.be1f151cec74858256ef.TTF",
     "index.html": "/my_project_react_pages/index.html",
-    "main.21725310.css.map": "/my_project_react_pages/static/css/main.21725310.css.map",
-    "main.e283f091.js.map": "/my_project_react_pages/static/js/main.e283f091.js.map",
+    "main.97122ff3.css.map": "/my_project_react_pages/static/css/main.97122ff3.css.map",
+    "main.5f10abf7.js.map": "/my_project_react_pages/static/js/main.5f10abf7.js.map",
     "787.93c0ff9f.chunk.js.map": "/my_project_react_pages/static/js/787.93c0ff9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21725310.css",
-    "static/js/main.e283f091.js"
+    "static/css/main.97122ff3.css",
+    "static/js/main.5f10abf7.js"
   ]
 }
